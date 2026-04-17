@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Wendy Black 🌟
+## Hi there! 👋
 
 I’m a **Full Stack Web Developer** who likes **coding, coffee ☕, and chaos ✨**  
 I build **cool websites**, explore **Web 3.0**, and occasionally talk to my code 😅  
